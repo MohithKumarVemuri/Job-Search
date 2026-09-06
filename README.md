@@ -1,3 +1,11 @@
+# Jobby App - Job Search Platform
+
+> 🚀 **Live Demo:** [https://mohithjobsearch.ccbp.tech](https://mohithjobsearch.ccbp.tech)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-mohithjobsearch.ccbp.tech-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohithjobsearch.ccbp.tech)
+
+---
+
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
 ### Refer to videos below:
